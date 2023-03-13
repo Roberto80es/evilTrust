@@ -2,7 +2,7 @@
 
 # evilTrust v2.0, Author @s4vitar (Marcelo Vázquez)
 # Actualizado por Roberto
-
+# fecha de actualizacion 13/03/2023
 #Colours
 greenColour="\e[0;32m\033[1m"
 endColour="\033[0m\e[0m"
@@ -35,7 +35,7 @@ sleep 0.05
 echo -e "╭━━┳╮╭┳┫┣╯┃┃┣┻┳╮╭┳━┻╮╭╯"
 sleep 0.05
 echo -e "┃┃━┫╰╯┣┫┃╱┃┃┃╭┫┃┃┃━━┫┃   ${endColour}${yellowColour}(${endColour}${grayColour}Hecho por ${endColour}${blueColour}s4vitar - ${endColour}${purpleColour}Eso le metes un nmap y pa' dentro${endColour}${yellowColour})${endColour}${redColour}"
-sleep 0.05
+sleep 0.05/
 echo -e "┃┃━╋╮╭┫┃╰╮┃┃┃┃┃╰╯┣━━┃╰╮"
 sleep 0.05
 echo -e "╰━━╯╰╯╰┻━╯╰╯╰╯╰━━┻━━┻━╯${endColour}"
